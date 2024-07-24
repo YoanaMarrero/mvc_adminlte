@@ -1,5 +1,6 @@
 **Curso 'PHP Proyecto web usuarios y roles Patron mvc' de Udemy**
 
+Última revisión: Junio 2024
 
 *"Este repositorio forma parte de mi proceso de reciclaje profesional, enfocado en la actualización y mejora de mis habilidades técnicas, porque ser un dinosaurio tecnológico no está en mis planes."* :)
 
